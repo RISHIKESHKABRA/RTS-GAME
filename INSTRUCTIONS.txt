@@ -1,0 +1,14 @@
+Prerequisites
+Install pygame first:
+
+Bash
+pip install pygame
+
+Controls & Core Features
+Left-Click + Drag Box: Multi-select units within a marquee selection window.
+
+Right-Click Ground: Orders selected units to move to target coordinates.
+
+Right-Click Gold Node: Assigns units to harvest gold. Workers automatically shuttle between the resource node and the nearest town center/base.
+
+Press 'B' Key: Toggle Base Building preview. Left-click anywhere on the map to construct a new base drop-off point for 50 Gold.
