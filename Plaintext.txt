@@ -1,0 +1,5 @@
+python-rts-game/
+├── main.py
+├── requirements.txt
+├── .gitignore
+└── README.md
